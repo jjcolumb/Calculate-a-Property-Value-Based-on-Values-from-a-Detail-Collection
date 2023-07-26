@@ -8,7 +8,8 @@
 
 This topic describes how to implement a business class, so that one of its properties is calculated based on a property(ies) of the objects contained in the child object collection.
 
-![CalculatePropertyBasedOnDetailCollection ](https://docs.devexpress.com/eXpressAppFramework/images/calculatepropertybasedondetailcollection116394.png)
+![image](https://github.com/jjcolumb/Calculate-a-Property-Value-Based-on-Values-from-a-Detail-Collection/assets/126447472/f9561296-8741-4fc1-bd99-f1c02adf54da)
+
 
 >TIP
 A complete sample project is available in the DevExpress Code Examples database at [https://supportcenter.devexpress.com/ticket/details/e305/how-to-calculate-a-master-property-based-on-values-from-a-details-collection](https://supportcenter.devexpress.com/ticket/details/e305/how-to-calculate-a-master-property-based-on-values-from-a-details-collection).
