@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jjcolumb/Calculate-a-Property-Value-Based-on-Values-from-a-Detail-Collection#readme)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/jjcolumb/Calculate-a-Property-Value-Based-on-Values-from-a-Detail-Collection/blob/master/README.es.md)
+
 # CalculatePropertyValue
 
 
