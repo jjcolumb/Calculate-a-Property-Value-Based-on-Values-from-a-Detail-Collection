@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jjcolumb/Calculate-a-Property-Value-Based-on-Values-from-a-Detail-Collection#readme)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jjcolumb/Calculate-a-Property-Value-Based-on-Values-from-a-Detail-Collection/blob/master/README.en.md)
 
 # Calcular un valor de propiedad basado en valores de una colección de detalles
 
